@@ -658,7 +658,6 @@ clear:both;
 
 
 
-
 /*================================================
 Responsive Layout
 =================*/
@@ -766,6 +765,8 @@ Responsive Layout
 	#home-head{font-size:7em;}
 	#home-info, #home-info-bottom{font-size:1.4em;}
 	
+	/*Service*/
+	.service-head {font-size:1.5em}
 	
 	/*Quote*/
 	#quote-text{font-size:2.3em}
@@ -777,10 +778,9 @@ Responsive Layout
 	.team-head {font-size:1.5em}
 	.team-job{font-size:1em}
 	
-
+	/*Testimonials*/
+	.client-info {font-size:1.5em;}
 	
-}	
-
-
+}
 
 
